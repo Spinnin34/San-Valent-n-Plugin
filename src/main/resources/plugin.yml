@@ -1,0 +1,11 @@
+name: AuroraCraft-Parejas
+version: '${project.version}'
+main: p.zestianparejas.ZestianParejas
+author: Spinnin34
+commands:
+  casarse:
+    description: Comando para casarse con otro jugador.
+    usage: /casarse <nombre>
+  divorcio:
+    description: Comando para divorciarse de tu pareja actual.
+    usage: /divorcio
